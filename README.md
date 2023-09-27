@@ -3,7 +3,7 @@
 <div>
   <table width="100%">
     <tr>
-      <td rowspan="4"><img align="center" src="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/assets/62181222/367529e8-f464-46bf-8638-ddd3b5c27648" style="height:120px;width:120px;text-align:center"/></td>
+      <td rowspan="3"><img align="center" src="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/assets/62181222/367529e8-f464-46bf-8638-ddd3b5c27648" style="height:120px;width:120px;text-align:center"/></td>
     </tr>
     <tr height="30">
       <th>App Size</th>
