@@ -12,10 +12,10 @@
       <th>Stars</th>
     </tr>
     <tr height="50">
-      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/badge/22.4 MB-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
-      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/badge/1.0.2-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
-      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/eBoardResults_Bangladesh/total?style=for-the-badge&label=%20&labelColor=white&color=grey" style="height:25px;"/></a></td>
-      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/eBoardResults_Bangladesh?style=for-the-badge&label=%20&color=grey" style="height:25px;"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/badge/22.4 MB-grey?style=for-the-badge&labelColor=black&color=white" style="height:25px"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/badge/1.0.2-grey?style=for-the-badge&labelColor=black&color=white" style="height:25px"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/eBoardResults_Bangladesh/total?style=for-the-badge&label=%20&labelColor=black&color=white" style="height:25px;"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/eBoardResults_Bangladesh?style=for-the-badge&label=%20&labelColor=black&color=white" style="height:25px;"/></a></td>
     </tr>
     <tr height="80">
       <td colspan="4" align="center" height="50"><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/></a></td>
