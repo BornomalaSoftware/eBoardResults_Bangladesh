@@ -26,7 +26,7 @@
   </table>
 </div>
 
-## Screenshot
+## Screenshots
 ![feature-graphic](https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/assets/62181222/028d4f33-0cde-4fff-b3bd-8ae91b5b3696)
 
 <table align="center">
