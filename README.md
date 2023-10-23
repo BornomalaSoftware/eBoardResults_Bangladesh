@@ -53,4 +53,4 @@ Features:
 - Institution Analytics
 - Board Analytics
 
-This app is not affiliate with Intermediate and Secondary Education Boards or Ministry of Education of Bangladesh. All the data is managed by the government. This app is just a simplified app version of the government website.
+This app is not affiliate with Intermediate and Secondary Education Boards or Ministry of Education of Bangladesh. This app is just a simplified app version of the government website.
