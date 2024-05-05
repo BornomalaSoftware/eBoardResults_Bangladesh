@@ -19,6 +19,12 @@
       <td align="center">v1.0.2+3</td>
       <td colspan="4" align="center" height="50"><a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh/releases/download/v1.0.2%2B3/eBoardResults-1.0.2.apk"><img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/></a></td>
     </tr>
+    <tr height="20">
+      <td colspan="4" align="center" height="50">
+    
+[**View Source Code**](https://github.com/aratheunseen/flutter-eboard-results-bangladesh)
+</td>
+    </tr>
   </table>
 </div>
 
